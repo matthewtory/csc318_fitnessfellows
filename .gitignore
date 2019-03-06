@@ -8,3 +8,15 @@ packages
 .packages
 pubspec.lock
 .vscode/
+
+    
+.DS_Store
+.dart_tool/
+.packages
+.pub/
+.idea
+.atom
+.vscode
+.flutter-plugins
+build/
+*.iml
