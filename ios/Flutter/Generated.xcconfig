@@ -1,0 +1,9 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/matthewtory/development/flutter
+FLUTTER_APPLICATION_PATH=/Users/matthewtory/Dropbox/U of T/3rd Year/S/CSC318/High-fidelity Prototype/csc318_fitnessfellows
+FLUTTER_TARGET=/Users/matthewtory/Dropbox/U of T/3rd Year/S/CSC318/High-fidelity Prototype/csc318_fitnessfellows/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+FLUTTER_FRAMEWORK_DIR=/Users/matthewtory/development/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
